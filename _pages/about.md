@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal webpage!
-
 I am a researcher in Artificial Intelligence and Optimization, focusing on the design, analysis, and optimization of algorithms, with a strong emphasis on Mathematical Programming and Machine Learning.
 
 I am currently a **Postdoctoral Researcher** at the Department of Electrical and Computer Engineering at the **University of Western Macedonia**, Greece, where I am a member of the **Intelligent Systems and Optimization (ISOpt) Laboratory**.
