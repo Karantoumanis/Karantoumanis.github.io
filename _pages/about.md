@@ -1,9 +1,13 @@
 ---
-layout: about
-title: "Emmanouil Karantoumanis, Ph.D."
 permalink: /
+title: "Emmanouil Karantoumanis, Ph.D."
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+
+Welcome to my personal webpage!
 
 I am a researcher in Artificial Intelligence and Optimization, focusing on the design, analysis, and optimization of algorithms, with a strong emphasis on Mathematical Programming and Machine Learning.
 
