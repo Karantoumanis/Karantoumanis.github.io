@@ -4,8 +4,6 @@ permalink: /experience/
 author_profile: true
 ---
 
-## Research Projects & Professional Experience
-
 **Researcher — "SYNERGINN EDIH" Digital Innovation Hub**
 *University of Western Macedonia* | Sept. 2024 – Sept. 2026
 * Designed and implemented AI-based digital services for enterprises and public organizations.
